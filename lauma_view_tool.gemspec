@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Lauma Cirule"]
   spec.email = ["laumii@gmail.com"]
 
-  spec.summary = "Various view specific methods for learning projects."
+  spec.summary = "Various view specific methods for my learning projects."
   spec.description = "Provides generated HTML data for Rails applications."
-  spec.homepage = "https://github.com/laumacirule/"
+  spec.homepage = "https://github.com/laumacirule/lauma_view_tool"
   spec.required_ruby_version = ">= 2.5.0"
 
   # Specify which files should be added to the gem when it is released.
