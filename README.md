@@ -14,7 +14,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LaumaViewTool::Render.copyright('Lauma Cirule', 'All rights reserved')
+```
 
 ## Development
 
